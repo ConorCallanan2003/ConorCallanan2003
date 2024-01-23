@@ -1,5 +1,4 @@
 # Hello 👋
-![](https://github-readme-stats.vercel.app/api?username=ConorCallanan2003)
 ![](https://streak-stats.demolab.com/?user=ConorCallanan2003&theme=dark)
 https://github-readme-stats.vercel.app/api?username=anuraghazra
 <!--

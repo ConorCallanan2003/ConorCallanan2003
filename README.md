@@ -1,4 +1,4 @@
-# Hello 👋
+# conor callanan | immersive software engineering student
 ![](https://streak-stats.demolab.com/?user=ConorCallanan2003&theme=dark)
 <!--
 **ConorCallanan2003/ConorCallanan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
